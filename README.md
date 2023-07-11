@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
 
-### Favourite project ⭐
+### Favorite project ⭐
 
 <a href="https://github.com/AdrianMaj/ForestWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=forestwebsite&theme=dark"/></a><br>
 
