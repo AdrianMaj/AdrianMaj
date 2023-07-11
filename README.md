@@ -1,6 +1,6 @@
 # Hi, my name is Adrian 👋
 
-### Ambitious, aspiring frontend developer
+### Ambitious, aspiring frontend developer 🎓
 
 - 🔭 I’m currently working on Typescript course project
 - 🌱 I’m currently learning TypeScript
@@ -25,7 +25,7 @@
 <a href="https://babeljs.io/"><img alt='Babel Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /></a>
 <a href="https://git-scm.com/"><img alt='Git Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
-## Currently learning
+## Currently learning 📚
 
 <a href="https://www.typescriptlang.org/"><img alt='Typescript Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 
