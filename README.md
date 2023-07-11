@@ -11,7 +11,7 @@
 
 ### Favourite project ⭐
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=forestwebsite&theme=dark"/><br>
+<a href="https://github.com/AdrianMaj/ForestWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=forestwebsite&theme=dark"/></a><br>
 
 ## Languages and Tools that I know 🛠
 
