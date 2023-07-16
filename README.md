@@ -2,7 +2,7 @@
 
 ### Ambitious, aspiring frontend developer 🎓
 
-- 🔭 I’m currently working on Typescript course project
+- 🔭 I’m currently working on Figma webpage project
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about HTML, CSS, SCSS, JS
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
