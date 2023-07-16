@@ -28,6 +28,7 @@
 ## Currently learning 📚
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img alt='Typescript Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt='Figma Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## Stats 📊
 
