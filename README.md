@@ -25,10 +25,10 @@
 <a href="https://babeljs.io/" target="_blank" rel="noopener"><img alt='Babel Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener"><img alt='Git Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img alt='Typescript Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt='Figma Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## Currently learning 📚
 
-<a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt='Figma Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img alt='TailwindCSS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 
 ## Stats 📊
