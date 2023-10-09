@@ -2,9 +2,9 @@
 
 ### Ambitious, aspiring frontend developer 🎓
 
-- 🔭 I’m currently working on Figma webpage project
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about HTML, CSS, SCSS, JS
+- 🔭 I’m currently working on React Course
+- 🌱 I’m currently learning React
+- 💬 Ask me about HTML, CSS, SCSS, JS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
