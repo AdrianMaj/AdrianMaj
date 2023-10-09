@@ -30,6 +30,7 @@
 ## Currently learning 📚
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img alt='TailwindCSS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener"><img alt='React Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>   
 
 ## Stats 📊
 
