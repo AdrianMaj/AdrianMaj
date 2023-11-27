@@ -27,11 +27,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img alt='Typescript Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener"><img alt='Figma Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noopener"><img alt='Vite.js Icon' height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1d68188aabc0628be55fadcc55e3020d7cfa7266/icons/vitejs/vitejs-original.svg" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener"><img alt='React Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>   
 
 ## Currently learning 📚
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img alt='TailwindCSS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-<a href="https://react.dev/" target="_blank" rel="noopener"><img alt='React Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>   
+<a href="https://redux.js.org/" target="_blank" rel="noopener"><img alt='Redux Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>   
 
 ## Stats 📊
 
