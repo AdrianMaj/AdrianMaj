@@ -29,11 +29,16 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noopener"><img alt='Vite.js Icon' height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1d68188aabc0628be55fadcc55e3020d7cfa7266/icons/vitejs/vitejs-original.svg" /></a>
 <a href="https://react.dev/" target="_blank" rel="noopener"><img alt='React Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>   
 <a href="https://redux.js.org/" target="_blank" rel="noopener"><img alt='Redux Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img alt='TailwindCSS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+<a href="https://reactrouter.com/" target="_blank" rel="noopener"><img alt='React Router Icon' height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/c1633d7cd0d15fbcf3324cf51ec9ec18f43301b5/icons/reactrouter/reactrouter-original.svg" /></a>
 
 ## Currently learning 📚
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener"><img alt='TailwindCSS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-<a href="https://reactrouter.com/" target="_blank" rel="noopener"><img alt='React Router Icon' height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/c1633d7cd0d15fbcf3324cf51ec9ec18f43301b5/icons/reactrouter/reactrouter-original.svg" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noopener"><img alt='Next.JS Icon' height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+
+## Currently working on 🛠
+
+<a href="https://github.com/AdrianMaj/MultiStepForm" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=multistepform&theme=dark"/></a><br>
 
 ## Stats 📊
 
