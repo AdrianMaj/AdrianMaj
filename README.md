@@ -2,7 +2,7 @@
 
 ### Ambitious, aspiring frontend developer 🎓
 
-- 🔭 I’m currently working on Multi Step Form Project
+- 🔭 I’m currently working on PUMPFIT App
 - 🌱 I’m currently learning Next.JS
 - 💬 Ask me about HTML, CSS, SCSS, JS, React, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
