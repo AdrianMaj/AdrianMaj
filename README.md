@@ -38,7 +38,7 @@
 
 ## Currently working on 🛠
 
-<a href="https://github.com/AdrianMaj/MultiStepForm" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=multistepform&theme=dark"/></a><br>
+<a href="https://github.com/AdrianMaj/PUMPFIT" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=pumpfit&theme=dark"/></a><br>
 
 ## Stats 📊
 
