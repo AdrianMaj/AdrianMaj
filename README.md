@@ -11,7 +11,7 @@
 
 ### Favorite project ⭐
 
-<a href="https://github.com/AdrianMaj/ForestWebsite" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=forestwebsite&theme=dark"/></a><br>
+<a href="https://github.com/AdrianMaj/PUMPFIT" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=pumpfit&theme=dark"/></a><br>
 
 ## Languages and Tools that I know 🛠
 
