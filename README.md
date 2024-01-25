@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
 
-### Favorite project ⭐
+### Featured project ⭐
 
 <a href="https://github.com/AdrianMaj/PUMPFIT" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=pumpfit&theme=dark"/></a><br>
 
