@@ -1,6 +1,6 @@
 # Hi, my name is Adrian 👋
 
-### Ambitious, aspiring frontend developer 🎓
+### Aspiring future frontend developer 🎓
 
 - 🔭 I’m currently working on PUMPFIT App
 - 🌱 I’m currently learning Next.JS
