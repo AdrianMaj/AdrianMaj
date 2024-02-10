@@ -21,7 +21,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=next)
 
-## Currently working on 🛠
+## Currently working on ⚙️
 
 <a href="https://github.com/AdrianMaj/PUMPFIT" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=pumpfit&theme=dark"/></a><br>
 
