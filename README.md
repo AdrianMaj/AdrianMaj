@@ -26,7 +26,7 @@
 <a href="https://github.com/AdrianMaj/PUMPFIT" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=pumpfit&theme=dark"/></a><br>
 
 <details>
-<summary>## Stats 📊</summary>
+<summary><h2>Stats 📊</h2></summary>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmaj&layout=compact&theme=dark"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmaj&theme=dark"/><br>
