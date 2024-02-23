@@ -23,7 +23,7 @@
 
 ## Currently working on ⚙️
 
-Upcoming new project
+Upcoming new resume-creator project
 
 <details>
 <summary><h2>Stats 📊</h2></summary>
