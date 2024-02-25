@@ -23,7 +23,7 @@
 
 ## Currently working on ⚙️
 
-Upcoming new resume-creator project
+<a href="https://github.com/AdrianMaj/resee" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=resee&theme=dark"/></a><br>
 
 <details>
 <summary><h2>Stats 📊</h2></summary>
