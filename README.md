@@ -1,6 +1,6 @@
 # Hi, my name is Adrian 👋
 
-### Aspiring future frontend developer 🎓
+### Aspiring future front-end developer 🎓
 
 - 🔭 I’m currently working on resee CV Creator App
 - 🌱 I’m currently learning Next.JS
