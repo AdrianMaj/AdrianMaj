@@ -1,9 +1,10 @@
-# Hi, my name is Adrian 👋
+# Hi, I'm Adrian 👋
 
 ### Aspiring future front-end developer 🎓
 
 - 🔭 I’m currently working on resee CV Creator App
 - 🌱 I’m currently learning Next.JS
+- 💼 I'm looking for a job :)
 - 💬 Ask me about React, Next.JS, HTML, CSS, JS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com) (I'm looking for a job)
 
