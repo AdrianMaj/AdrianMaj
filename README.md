@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on resee CV Creator App
 - 🌱 I’m currently learning Next.JS
 - 💬 Ask me about React, Next.JS, HTML, CSS, JS, UI/UX
-- 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com) (I'm looking for a job)
+- 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
 
