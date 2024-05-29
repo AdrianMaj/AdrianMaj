@@ -2,9 +2,9 @@
 
 ### Ambitious front-end developer 🎓
 
-- 🔭 I’m currently working on Next.JS Course
-- 🌱 I’m currently learning Next.JS
-- 💬 Ask me about React, Next.JS, HTML, CSS, JS, UI/UX
+- 🔭 I’m currently working on Next.js Course
+- 🌱 I’m currently learning Next.js and Node.js
+- 💬 Ask me about React, Next.js, HTML, CSS, JS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
@@ -19,7 +19,7 @@
 
 ## Currently learning 📚
 
-![My Skills](https://skillicons.dev/icons?i=next)
+![My Skills](https://skillicons.dev/icons?i=next,node)
 
 ## Currently working on ⚙️
 
