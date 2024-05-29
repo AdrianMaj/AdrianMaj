@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-### Ambitious front-end developer 🎓
+### Front-end developer aspiring for full-stack 🎓
 
 - 🔭 I’m currently working on Next.js Course
 - 🌱 I’m currently learning Next.js and Node.js
