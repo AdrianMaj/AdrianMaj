@@ -23,7 +23,7 @@
 
 ## Currently working on ⚙️
 
-<a href="https://github.com/AdrianMaj/resee" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=resee&theme=dark"/></a><br>
+<a href="https://github.com/AdrianMaj/nextjsmasters" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=nextjsmasters&theme=dark"/></a><br>
 
 <details>
 <summary><h2>Stats 📊</h2></summary>
