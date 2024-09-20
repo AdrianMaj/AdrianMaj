@@ -19,7 +19,7 @@
 
 ## Currently learning 📚
 
-![My Skills](https://skillicons.dev/icons?i=next,nodejs)
+![My Skills](https://skillicons.dev/icons?i=next,nodejs,vue,pinia)
 
 ## Currently working on ⚙️
 
