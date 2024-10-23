@@ -3,7 +3,7 @@
 ### Front-end developer aspiring for full-stack 🎓
 
 - 🔭 I’m currently working on Next.js Masters Course
-- 🌱 I’m currently learning Next.js and Node.js
+- 🌱 I’m currently exploring Vue.js alongside with Nuxt
 - 💬 Ask me about React, Next.js, HTML, CSS, JS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
