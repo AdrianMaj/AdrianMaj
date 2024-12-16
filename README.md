@@ -1,10 +1,10 @@
 # Hi, I'm Adrian 👋
 
-### Front-end developer aspiring for full-stack 🎓
+### Full-stack Developer excited on learning new things! 🎓
 
-- 🔭 I’m currently working on Next.js Masters Course
+- 🔭 I’m currently working on Next.js Projects
 - 🌱 I’m currently exploring Vue.js alongside with Nuxt
-- 💬 Ask me about React, Next.js, HTML, CSS, JS, UI/UX
+- 💬 Ask me about React, Next.js, HTML, CSS, TS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
