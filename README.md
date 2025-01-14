@@ -3,7 +3,7 @@
 ### Full-stack Developer excited on learning new things! 🎓
 
 - 🔭 I’m currently working on Next.js Projects
-- 🌱 I’m currently exploring PayloadCMS deeply
+- 🌱 I’m currently exploring PayloadCMS in depth
 - 💬 Ask me about React, Next.js, HTML, CSS, TS, UI/UX
 - 📫 How to reach me: [adrianmaj1122@gmail.com](mailto:adrianmaj1122@gmail.com)
 
