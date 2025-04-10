@@ -11,11 +11,12 @@
 
 ### Featured project ⭐
 
-<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=payload-lexical-typography&theme=dark"/></a><br>
+<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=payload-lexical-typography&theme=dark"/></a><br/>
 
 ## Languages and Tools that I know 🛠
 
-![My Skills](https://skillicons.dev/icons?i=next,react,typescript,prisma,javascript,tailwind,vite,vercel,sass,html,css,vscode,git,figma)
+![My Skills](https://skillicons.dev/icons?i=next,react,typescript,prisma,mongodb,javascript,tailwind,markdown)<br/>
+![My Skills](https://skillicons.dev/icons?i=vite,vercel,sass,html,css,vscode,git,figma)
 
 ## Currently learning 📚
 
