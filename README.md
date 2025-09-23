@@ -30,6 +30,6 @@
 <summary><h2>Stats 📊</h2></summary>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmaj&layout=compact&theme=dark"/><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmaj&theme=dark"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianMaj&theme=dark"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=adrianmaj&show_icons=true&locale=en&theme=dark"/>
 </details>
