@@ -9,9 +9,10 @@
 
 ![](https://komarev.com/ghpvc/?username=adrianmaj&style=for-the-badge)
 
-### Featured project ⭐
+### Featured projects ⭐
 
-<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=payload-lexical-typography&theme=dark"/></a><br/>
+<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=payload-lexical-typography&theme=dark"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Mandala-Software-House/payload-ecommerce-template" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mandala-Software-House&repo=payload-ecommerce-template&theme=dark"/></a><br/>
 
 ## Languages and Tools that I know 🛠
 
