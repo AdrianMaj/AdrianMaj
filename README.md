@@ -16,8 +16,7 @@
 
 ## Languages and Tools that I know 🛠
 
-![My Skills](https://skillicons.dev/icons?i=next,react,typescript,prisma,mongodb,javascript,tailwind,markdown)<br/>
-![My Skills](https://skillicons.dev/icons?i=vite,vercel,sass,html,css,vscode,git,figma)
+![My Skills](https://skillicons.dev/icons?i=next,react,typescript,prisma,mongodb,javascript,tailwind,markdown,vite,vercel,sass,html,css,vscode,git,figma&perline=8)<br/>
 
 ## Currently learning 📚
 
