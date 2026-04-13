@@ -11,8 +11,8 @@
 
 ### Featured projects ⭐
 
-<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=payload-lexical-typography&theme=dark"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Mandala-Software-House/payload-ecommerce-template" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mandala-Software-House&repo=payload-ecommerce-template&theme=dark"/></a><br/>
+<a href="https://github.com/AdrianMaj/payload-lexical-typography" target="_blank" rel="noopener"><img src="./profile/pin-payload-lexical-typography.svg"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Mandala-Software-House/payload-ecommerce-template" target="_blank" rel="noopener"><img src="./profile/pin-payload-ecommerce-template.svg"/></a><br/>
 
 ## Languages and Tools that I know 🛠
 
@@ -24,12 +24,13 @@
 
 ## Currently working on ⚙️
 
-<a href="https://github.com/AdrianMaj/adrianmaj.com" target="_blank" rel="noopener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianmaj&repo=adrianmaj%2Ecom&theme=dark"/></a><br>
+<a href="https://github.com/AdrianMaj/adrianmaj.com" target="_blank" rel="noopener"><img src="./profile/pin-adrianmajcom.svg"/></a><br>
 
 <details>
 <summary><h2>Stats 📊</h2></summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmaj&layout=compact&theme=dark"/><br>
+<img src="./profile/top-langs.svg"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianMaj&theme=dark"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=adrianmaj&show_icons=true&locale=en&theme=dark"/>
+<img src="./profile/stats.svg"/>
+
 </details>
