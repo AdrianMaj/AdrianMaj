@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Adrian Maj's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 116, Total Commits  (last year) : 132, Total PRs: 39, Total Issues: 4, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 117, Total Commits  (last year) : 132, Total PRs: 39, Total Issues: 4, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 137.10906637461602;
+        stroke-dashoffset: 136.95796651873312;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >116</text>
+      >117</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
